@@ -1,6 +1,6 @@
 # 该项目已停止维护
 
-由于个人能力有限，且高中学业繁忙，`laravel-admin`更新频繁，故无精力维护此项目，敬请谅解。
+原项目路径[github](https://github.com/wenxuanjun/laravel-adminlte3)。
 
 # AdminLTE3 for laravel-admin
 
